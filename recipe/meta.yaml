@@ -1,5 +1,5 @@
 {% set name = "morningstar-data" %}
-{% set version = "1.9.5" %}
+{% set version = "1.9.6" %}
 
 package:
   name: morningstar-data
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/morningstar_data-{{ version }}.tar.gz
-  sha256: 947914cf3ba553e15c0d8a932117721aadeca90bc03b7c0990f72e5586063131
+  sha256: 614d780d722ff1049943224895bbe88d152a2f96224b18fcd4cb95cc54efbaa3
 
 build:
   noarch: python
