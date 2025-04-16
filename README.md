@@ -144,10 +144,6 @@ Feedstock Maintainers
 =====================
 
 * [@RuifengQu](https://github.com/RuifengQu/)
-* [@adampaslawski](https://github.com/adampaslawski/)
 * [@dlim716](https://github.com/dlim716/)
 * [@jonzeper](https://github.com/jonzeper/)
-
-
-<!-- dummy commit to enable rerendering -->
 
